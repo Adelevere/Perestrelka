@@ -18,7 +18,7 @@ This project won the "Steps into Science of the 21st Century" city research conf
 
 ---
 
-# "Perestrelka" ("Shootout") Game Rules
+## "Perestrelka" ("Shootout") Game Rules
 
 ## Overview
 
