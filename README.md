@@ -1,3 +1,23 @@
+# Perestrelka ("Shootout")
+
+A browser-based version of the team math game "Perestrelka", built with JavaScript, HTML and CSS.
+
+This project won the "Steps into Science of the 21st Century" city research conference for high school students (2024).
+
+## How to run
+
+1. Download or clone the repository.
+2. Open `Perestrelka.html` in any web browser.
+3. Enter the number of teams and start the game.
+
+## Tech stack
+
+- JavaScript
+- HTML
+- CSS
+
+---
+
 # "Perestrelka" ("Shootout") Game Rules
 
 ## Overview
